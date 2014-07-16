@@ -8,6 +8,16 @@
     "Department of Parliamentary Services": [
       ["164.75.0.0", "164.75.31.255"],
       ["202.14.81.0", "202.14.81.255"]
+    ],
+     "NSW Parliament": [
+     ["203.13.64.0", "203.13.67.255"],
+     ["203.31.230.0", "203.31.231.255"]
+    ],
+    "Department of Immigration and Border Protection": [
+      ["164.97.0.0", "164.97.255.255"]
+    ],
+    "Australian Electoral Commission": [
+      ["168.130.0.0", "168.130.255.255"]
     ]
   }
 }
