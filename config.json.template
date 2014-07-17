@@ -1,23 +1,33 @@
 {
-  "nick": "yourIrcNickHere",
+  "nick": "AUSgovEdits",
   "consumer_key": "",
   "consumer_secret": "",
   "access_token": "",
   "access_token_secret": "",
   "ranges": {
     "Department of Parliamentary Services": [
-      ["164.75.0.0", "164.75.31.255"],
+      ["164.75.0.0", "164.75.32.255"],
       ["202.14.81.0", "202.14.81.255"]
     ],
-     "NSW Parliament": [
-     ["203.13.64.0", "203.13.67.255"],
-     ["203.31.230.0", "203.31.231.255"]
+    "NSW Parliament": [
+	["203.13.64.0","203.13.67.255"],
+	["203.31.230.0","203.31.231.255"]
     ],
-    "Department of Immigration and Border Protection": [
-      ["164.97.0.0", "164.97.255.255"]
+    "Department of Imigration and Border Protection": [
+	["164.97.0.0","164.97.255.255"]
+
     ],
-    "Australian Electoral Commission": [
-      ["168.130.0.0", "168.130.255.255"]
+    "Australian Electoral Commission":[
+	["168.130.0.0","168.130.255.255"]
+    ],
+    "Australian Taxation Office":[
+	["180.149.192.0","180.149.195.255"]
+    ],
+    "DFAT":[
+	["203.6.160.0","203.6.191.255"]
+    ],
+    "Parliament Of Victoria": [
+	["203.16.24.0","203.16.24.255"]
     ]
   }
 }
